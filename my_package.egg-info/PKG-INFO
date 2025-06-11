@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: my_package
+Version: 0.1
+Summary: Un package exemple
+Author: HamzaBEK
+Author-email: hamza.bekoury@hotmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
